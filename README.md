@@ -87,7 +87,11 @@ streamlit run app.py
 
 O Streamlit irá disponibilizar o endereço local para acessar a aplicação pelo navegador.
 
-## 7. Produzido por:
+## URL
+Repositório no Github: https://github.com/juliavieirarodrigues/analise-criminalidade-parana.git
+Aplicação: https://projeto-criminalidade-parana.streamlit.app/
+
+## 8. Produzido por:
 
 Julia Camilly Vieira Rodrigues
 
